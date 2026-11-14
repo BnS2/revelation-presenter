@@ -14,6 +14,10 @@
   &nbsp;·&nbsp; Apple Silicon &nbsp;·&nbsp; macOS 13 or later
 </p>
 
+<p align="center">
+  or with Homebrew: <code>brew install --cask bns2/tap/revelation</code> (see <a href="#install">Install</a>)
+</p>
+
 ![The Present screen: service order on the left, the next slide in Preview, and what the audience sees in Live](docs/screenshots/present.jpg)
 
 ## Highlights
@@ -26,10 +30,13 @@
   ready in Preview, without touching the prepared service.
 - **A songbook that remembers.** Save a song once and reuse it every week; each
   song lists the services that used it.
-- **Bring what you already have.** PowerPoint, PDF (including Canva exports),
+- **Bring what you already have.** Turn a whole Sunday PowerPoint into a service
+  of editable songs and readings, or bring in PDFs (including Canva exports),
   photos, or lyrics typed straight in.
-- **Free backgrounds.** A searchable library of CC0 pictures with credits, kept on
-  the Mac for offline use.
+- **Find the words online.** Search a free lyrics database, check the words, and
+  save the song to your songbook.
+- **Free backgrounds and fonts.** A searchable library of CC0 pictures with
+  credits, and open-licence fonts, kept on the Mac for offline use.
 - **Made for the keyboard and the clicker.** Space for next, B for a black screen,
   `/` to find anything.
 - **Everything stays on your Mac.** No account, no subscription. One backup file
@@ -80,13 +87,27 @@ and CC0 backgrounds.</sub>
 
 ## Install
 
-Get the latest `.dmg` from
+Revelation runs on Apple Silicon Macs (M1 or later) with macOS 13 or later. It
+doesn't run on Intel Macs.
+
+With [Homebrew](https://brew.sh):
+
+```sh
+brew tap bns2/tap
+brew trust bns2/tap
+brew install --cask bns2/tap/revelation
+```
+
+Homebrew installs casks from other taps only after `brew trust`. Revelation
+updates itself, so `brew upgrade` skips it unless you add `--greedy`.
+
+Or get the latest `.dmg` from
 [Releases](https://github.com/BnS2/revelation-presenter/releases/latest).
 
-The app isn't signed with an Apple Developer ID yet, so macOS asks for permission
-the first time you open it:
+The app isn't signed with an Apple Developer ID yet, so either way macOS asks for
+permission the first time you open it:
 
-1. Open the `.dmg` and drag Revelation into Applications.
+1. Open the `.dmg` and drag Revelation into Applications (Homebrew does this for you).
 2. Open Revelation. When macOS says it can't verify the developer, click **Done**.
 3. Go to **System Settings > Privacy & Security**, scroll down to **Security** and
    click **Open Anyway** next to Revelation. Enter your Mac password.
