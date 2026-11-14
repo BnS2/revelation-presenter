@@ -75,6 +75,14 @@ services where you used it.
 
 ![The Songs screen showing Blessed Assurance, its three slides and the services that used it](docs/screenshots/songs.jpg)
 
+### Find the words
+
+Search a free lyrics database by title, artist or a line you remember, read the
+words, and check them before they go into your songbook. Songs you already have
+are marked.
+
+![Find lyrics online with two public-domain hymns found for "grace", one already in the songbook](docs/screenshots/lyrics.jpg)
+
 ### Pick a background
 
 Browse free CC0 backgrounds from Wikimedia Commons, download the ones you like,
