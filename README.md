@@ -24,8 +24,8 @@
 
 - **Preview first, then show it.** Every slide waits in Preview until you press
   Enter. The audience only ever sees what you chose to send.
-- **Two Bible versions side by side.** King James and Ang Dating Biblia install in
-  one click, and any GetBible or Zefania file adds another.
+- **Two Bible versions side by side.** King James and Ang Dating Biblia are
+  included. Add another version from a GetBible or Zefania file.
 - **Find a verse as it's announced.** Type `gen 1 4` or say "John 3:16" and it's
   ready in Preview, without touching the prepared service.
 - **A songbook that remembers.** Save a song once and reuse it every week; each
@@ -37,8 +37,8 @@
   save the song to your songbook.
 - **Free backgrounds and fonts.** A searchable library of CC0 pictures with
   credits, and open-licence fonts, kept on the Mac for offline use.
-- **Made for the keyboard and the clicker.** Space for next, B for a black screen,
-  `/` to find anything.
+- **Made for the keyboard and the clicker.** Right Arrow or Space for the next slide,
+  B to blank the audience screen, and `/` to find a passage or song.
 - **Everything stays on your Mac.** No account, no subscription. One backup file
   moves the whole library to another Mac.
 - **Updates itself.** When a new version is out, the app offers it, and installs it
@@ -52,7 +52,7 @@ Name the groups yourself (opening songs, Scripture reading, announcements, and s
 fill them from the library, and drag them into order. Clicking a slide only
 previews it.
 
-![The Service screen with groups of songs and readings, and the Welcome slides previewed over a mountain background](docs/screenshots/service.jpg)
+![The Service screen with groups of songs and readings, and Amazing Grace previewed over a mountain background](docs/screenshots/service.jpg)
 
 ### Read in two languages at once
 
@@ -88,7 +88,7 @@ are marked.
 Browse free CC0 backgrounds from Wikimedia Commons, download the ones you like,
 and use them for every song or for one song.
 
-![The template library with mountain, canyon, night sky and Bible backgrounds](docs/screenshots/templates.jpg)
+![The template library with ocean, mountain and Bible backgrounds](docs/screenshots/templates.jpg)
 
 <sub>Screenshots use public-domain hymns and Bible text (KJV, Ang Dating Biblia 1905)
 and CC0 backgrounds.</sub>
