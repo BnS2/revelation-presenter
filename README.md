@@ -88,7 +88,7 @@ are marked.
 Browse free CC0 backgrounds from Wikimedia Commons, download the ones you like,
 and use them for every song or for one song.
 
-![The template library with canyon, mountain, night sky and Bible backgrounds](docs/screenshots/templates.jpg)
+![The template library with mountain, ocean, night sky and Bible backgrounds](docs/screenshots/templates.jpg)
 
 <sub>Screenshots use public-domain hymns and Bible text (KJV, Ang Dating Biblia 1905)
 and CC0 backgrounds.</sub>
