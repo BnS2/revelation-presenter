@@ -37,6 +37,9 @@
   save the song to your songbook.
 - **Free backgrounds and fonts.** A searchable library of CC0 pictures with
   credits, and open-licence fonts, kept on the Mac for offline use.
+- **Your logo, whole.** Show your church logo on the blank screen or behind the
+  words without cropping, at the size, position and background colour you choose.
+- **Plan by dragging.** Drag a service to another day in the calendar.
 - **No surprises mid-service.** The Mac stays awake while you present. If the
   TV sleeps or a cable slips, the slides wait in a window instead of covering
   your controls, then go back to the TV.
