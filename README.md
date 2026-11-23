@@ -37,6 +37,9 @@
   save the song to your songbook.
 - **Free backgrounds and fonts.** A searchable library of CC0 pictures with
   credits, and open-licence fonts, kept on the Mac for offline use.
+- **No surprises mid-service.** The Mac stays awake while you present. If the
+  TV sleeps or a cable slips, the slides wait in a window instead of covering
+  your controls, then go back to the TV.
 - **Made for the keyboard and the clicker.** Right Arrow or Space for the next slide,
   B to blank the audience screen, and `/` to find a passage or song.
 - **Everything stays on your Mac.** No account, no subscription. One backup file
